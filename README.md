@@ -11,8 +11,6 @@
 
 I'm an emerging web developer combining **8 years of dedicated musical training** with high-achieving technical skills. I achieved a **20/20 grade** in Advanced Website Design and Programming (Master D) and am currently pursuing a **B.Sc. in Web Information Systems and Technologies** at ESMAD. 
 
-I bring the **discipline and creativity** honed through years of musical performance to every development project, approaching code with the same dedication and attention to detail that made me a successful musician.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -99,7 +97,6 @@ I'm always open to discussing new opportunities, collaborations, or just talking
 
 📧 **Email:** mr.sousapaiva@gmail.com  
 💼 **LinkedIn:** [gabriel-s-paiva](https://linkedin.com/in/gabriel-s-paiva)  
-📱 **Phone:** +351 926 945 169
 
 ---
 
