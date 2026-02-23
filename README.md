@@ -82,7 +82,7 @@ A demanding 3-year program focused on technical mastery and ensemble performance
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-S-Paiva&theme=tokyonight&hide_border=true)](https://github.com/Gabriel-S-Paiva)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-S-Paiva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Gabriel-S-Paiva)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-S-Paiva&layout=compact&theme=tokyonight&hide_border=true&langs_count=5)](https://github.com/Gabriel-S-Paiva)
 
 </div>
 
