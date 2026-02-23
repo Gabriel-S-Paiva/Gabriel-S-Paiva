@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gabriel-s-paiva)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mr.sousapaiva@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+351_926_945_169-green?style=flat&logo=whatsapp)](tel:+351926945169)
 
 ---
 
