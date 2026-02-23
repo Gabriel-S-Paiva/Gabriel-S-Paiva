@@ -76,9 +76,15 @@ A demanding 3-year program focused on technical mastery and ensemble performance
 
 ## 📊 GitHub Stats
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-S-Paiva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<div align="center">
+  
+[![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-S-Paiva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Gabriel-S-Paiva)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-S-Paiva&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-S-Paiva&theme=tokyonight&hide_border=true)](https://github.com/Gabriel-S-Paiva)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-S-Paiva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Gabriel-S-Paiva)
+
+</div>
 
 ---
 
@@ -102,4 +108,11 @@ I'm always open to discussing new opportunities, collaborations, or just talking
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gabriel-S-Paiva&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  
+### ⚡ Fun Fact  
+*I approach coding the same way I approach music: with passion, precision, and a commitment to continuous improvement!* 🎵💻
+
 </div>
