@@ -109,10 +109,3 @@ I'm always open to discussing new opportunities, collaborations, or just talking
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gabriel-S-Paiva&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
-
-<div align="center">
-  
-### ⚡ Fun Fact  
-*I approach coding the same way I approach music: with passion, precision, and a commitment to continuous improvement!* 🎵💻
-
-</div>
