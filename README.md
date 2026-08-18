@@ -1,111 +1,108 @@
 # Hi there, I'm Gabriel Paiva 👋
 
-### Web Information Systems and Technologies Student | Emerging Full-Stack Developer
+### Web Information Systems and Technologies Student | Backend-Focused Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gabriel-s-paiva)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mr.sousapaiva@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm an emerging web developer combining **8 years of dedicated musical training** with high-achieving technical skills. I achieved a **20/20 grade** in Advanced Website Design and Programming (Master D) and am currently pursuing a **B.Sc. in Web Information Systems and Technologies** at ESMAD. 
+I'm a Web Information Systems and Technologies student at ESMAD/IPP with a focus on backend systems, REST APIs, and self-hosted infrastructure. I've won 4 coding competitions and hackathons, and I build most of my projects on a home server I maintain myself, from database design to deployment.
+
+Recent work spans a Go/SvelteKit self-hosted cloud storage app, a dual-database municipal support platform, and CI/CD pipelines with automated vulnerability scanning.
+
+---
+
+## 🏆 Awards & Recognition
+
+- 🥇 **1st Place — TeamGreen4All Hackathon** (IPP-Wide Competition, May 2026) - *Legacy*
+- 🥇 **1st Place — Best WebPII Project Award** (ESMAD, 2025/26) - *SAM*
+- 🥇 **1st Place — 3.ª Edição Concurso de Programação madJS** (May 2025)
+- 🥇 **1st Place — ESMAD Best Project Award** (2024/25) - *PlanIt*
+- 🎤 **Invited Speaker** — ESMAD Seminar: *"Sucesso Académico em Contexto de Grupos de Trabalho"* (Mar 2026)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+### Backend & Systems
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-### Backend Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### Frontend & Design
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)](https://kit.svelte.dev/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://figma.com/)
 
-### Tools & Technologies
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+### DevOps & Infrastructure
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white)](https://caddyserver.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 
----
-
-## 🎓 Education
-
-### 🎯 **IPP-ESMAD** | B.Sc. in Web Information Systems and Technologies  
-**2024 – Present**  
-A practical B.Sc. focused on the complete web development lifecycle, covering backend systems (OOP), frontend development, database architecture (SQL/NoSQL), cloud services, and mobile computing.
-
-### 💻 **Master D** | Advanced Website Design and Programming  
-**2023 – 2025** | **Grade: 20/20**  
-An intensive, project-based certification covering full-stack development with focus on HTML5, CSS3, advanced JavaScript, PHP, and MySQL database management.
-
-### 🎺 **Costa Cabral Music Academy** | Professional Course in Wind and Percussion  
-**2019 – 2023**  
-A demanding 3-year program focused on technical mastery and ensemble performance, developing strong skills in discipline, long-term project commitment, and team collaboration.
+### Also familiar with
+Python (pandas, NumPy, scikit-learn) · PHP · Arduino · Selenium
 
 ---
 
-## 💼 Core Competencies
+## Featured Projects
 
-- 🤝 **Collaboration** – Experienced in team environments through ensemble performance
-- 🧩 **Problem-Solving** – Analytical approach to debugging and optimization
-- ⏱️ **Time Management** – Balancing multiple projects and deadlines effectively
-- 🔄 **Adaptability** – Quick learner who embraces new technologies
-- 📚 **Passionate Learner** – Committed to continuous improvement and skill development
+### [Owned Cloud](https://github.com/Gabriel-S-Paiva/Cloud)
+Self-hosted family cloud storage app - role-based auth, storage quotas, folder sharing, chunked uploads. Built with Go, SQLite, SvelteKit 5, Docker Compose, and a single-origin Caddy reverse-proxy for secure `HttpOnly` sessions over LAN. Storage layer covered by 67% automated test coverage. Deployed and running on my own home server.
+
+### [Project SAM — Municipal Platform](https://github.com/Gabriel-S-Paiva/p2-sam-backend)
+🥇 *Best WebPII Project Award, 2025/26.* A dual-database REST API backend (MySQL for domain entities, MongoDB for high-frequency logs and smart locker telemetry) with JWT rotation, family-reuse detection, and real-time Socket.IO notifications. Built as part of a team, forked here to preserve my commit history as backend developer.
+
+### [PlanIt](https://github.com/Gabriel-S-Paiva/PlanIt)
+🥇 *ESMAD Best Project Award, 2024/25.* A lightweight HTML/CSS/JS planning app with localStorage-based persistence. Built as part of a team, forked here to preserve my contributions.
 
 ---
 
-## 🌍 Languages
+## Education
 
-🇵🇹 **Portuguese:** Native  
+**B.Sc. in Web Information Systems and Technologies** | ESMAD / Politécnico do Porto
+*2024 – Present*
+Full web development lifecycle: backend systems (OOP), frontend development, database architecture (SQL/NoSQL), cloud services, mobile computing.
+
+**Curso Avançado em Desenho e Programação Web** | MasterD
+*2023 – 2025* · Grade: 20/20 (98%)
+Full-stack certification covering HTML5, CSS3, advanced JavaScript, PHP, and MySQL.
+
+**Curso Profissional de Instrumentista** | Músico de Sopro e Percussão
+*2020 – 2023*
+Three-year professional program in wind and percussion performance.
+
+---
+
+## Languages
+
+🇵🇹 **Portuguese:** Native
 🇬🇧 **English:** C1 - Upper Intermediate
 
-<!---
+---
 
-## 📊 GitHub Stats
+## Current Focus
 
-<div align="center">
-  
-<!--[![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-S-Paiva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Gabriel-S-Paiva)--
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-S-Paiva&theme=tokyonight&hide_border=true)](https://github.com/Gabriel-S-Paiva)
-
-<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-S-Paiva&layout=compact&theme=tokyonight&hide_border=true&langs_count=5)](https://github.com/Gabriel-S-Paiva)--
-
-</div>
-
---->
-
-## 🎯 Current Focus
-
-- 🔭 Building full-stack web applications with modern frameworks
-- 🌱 Deepening knowledge in cloud services and DevOps practices
-- 👯 Looking to collaborate on open-source projects
-- 💡 Exploring innovative web technologies and best practices
+-  Shipping Owned Cloud v1.0.0
+-  Running a homelab built from repurposed hardware - both a learning environment and a production server
+-  Deepening Go, Docker, and self-hosted infrastructure knowledge
+-  Open to collaborating on open-source projects
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect
 
-I'm always open to discussing new opportunities, collaborations, or just talking about tech and music!
-
-📧 **Email:** mr.sousapaiva@gmail.com  
-💼 **LinkedIn:** [gabriel-s-paiva](https://linkedin.com/in/gabriel-s-paiva)  
+📧 **Email:** [mr.sousapaiva@gmail.com](mailto:mr.sousapaiva@gmail.com)
+💼 **LinkedIn:** [gabriel-s-paiva](https://linkedin.com/in/gabriel-s-paiva)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabriel-S-Paiva&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=Gabriel-S-Paiva&color=blueviolet&style=flat-square&label=Profile+Views)
